@@ -20,18 +20,3 @@ It uses a Machine Learning model in Python and provides a user-friendly frontend
    git clone <repo-url>
    cd student-performance
 
-student-performance/
-│
-├── .venv/                   # Python virtual environment (packages installed here)
-│
-├── data/                    # Datasets (raw & processed)
-│   └── dataset.csv          # Example dataset file
-│
-├── frontend/                # User interface files
-│   └──  index.html           # Main HTML page  # CSS styling # Frontend logic 
-│   
-├── app.py                   # Main backend app (Flask/FastAPI)
-│
-├── requirements.txt         # Python dependencies list
-│
-└── README.md                # Project documentation
